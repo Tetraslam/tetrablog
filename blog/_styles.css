@@ -1,0 +1,33 @@
+#checkbox {
+  display: flex;
+  align-items: center;
+}
+
+#checkbox::before {
+  content: ' ';
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+  border: 2px solid #635994;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+#tickedcheckbox::before {
+  border: 2px solid #635994;
+  content: '✔';
+  color: white;
+  font-size: 13px;
+  text-align: center;
+  line-height: 20px;
+  margin-right: 10px;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.four_oh_four {
+  background-image: url(https://i.imgur.com/qWOW7JK.png);
+  background-size: cover;
+  background-position: center;
+}

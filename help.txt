@@ -1,0 +1,13 @@
+rsync blog/* prose.sh:/
+
+---
+title: 40 Questions To Ask Yourself Every Year - 2024
+description: My take on Steph Ango's list.
+date: 2024-05-13
+image: https://i.imgur.com/1uf0xHb.png
+card: summary_large_image # or summary_large_image
+toc: false
+---
+
+^ you can also add:
+tags: [coding, buildinpublic]
