@@ -149,4 +149,4 @@ My Thai friend, Fa. She's a teacher in Krabi, and she just started her own art s
 > "The only way of discovering the limits of the possible is to venture a little way past them into the impossible"
 - Arthur C. Clarke
 
-With my summer holidays just around the corner, I'll be writing more often on this blog and [on my newsletter](https://tetraslam.beehiiv.com). Stay on the [Kardashev](https://en.wikipedia.org/wiki/Kardashev_scale) Climb, builders.
+With my summer holidays just around the corner, I'll be writing more often on this blog and [on my newsletter](https://tetraslam.beehiiv.com). See you around!

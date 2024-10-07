@@ -3,10 +3,11 @@
 This is my first blog post, and my about page.
 
 ## A few facts about me
+- I recently started an applied math startup/lab called Sapientia Research with [Yoyo Yuan](https://twitter.com/indiraschka) and [Merrick Richers](https://www.linkedin.com/in/merrick-richers-57b05a227)! Our first project is a fully homomorphic encryption platform for neuroscience labs to securely share datasets.
 - I've traveled to over 30 countries (my favorites so far are Greece, Croatia, Vietnam, and Thailand)
 - I'm a fan of roguelike and roguelite videogames (my favorite games: Hades, Dead Cells, the Final Fantasy series, the Persona series, the Yakuza series, and Wildermyth)
-- My favorite game engines are [Godot](https://godotengine.org/) and [PICO-8](https://www.lexaloffle.com/pico-8.php)
-- My favorite author is [Brandon Sanderson](https://www.brandonsanderson.com/)
+- My favorite game engine is [Godot](https://godotengine.org/)
+- My favorite authors are [Brandon Sanderson](https://www.brandonsanderson.com/) and [Leigh Bardugo](https://www.leighbardugo.com/)
 - I'm a worldbuilder in my free time
 - I mostly listen to [J-rock, shoegaze, and K-pop](https://open.spotify.com/user/jg360tzwslfct5mu6ftg2t46m?si=65ec44ebc07942a6)
 - I'm a licensed scuba diver
@@ -19,14 +20,14 @@ This is my first blog post, and my about page.
 - My favorite philosopher is [Slavoj Žižek](https://en.wikipedia.org/wiki/Slavoj_%C5%BDi%C5%BEek)
 - I've been playing the piano for over a dozen years
 - My favorite programming language is [Nim](https://nim-lang.org/)
-- My favorite code editor is [Sublime Text](https://www.sublimetext.com/), but I mainly use [VS Code](https://code.visualstudio.com/) for convenience
+- My favorite code editor is [Helix](https://helix-editor.com/), but I mainly use [VS Code](https://code.visualstudio.com/) for convenience
 - I love cooking and baking because of my mom, who is a Cordon Bleu-trained pastry chef
 - I'm an [effective accelerationist](https://en.wikipedia.org/wiki/Effective_accelerationism)
 - I'm a visual novel enthusiast
 - I'm a cybersecurity hobbyist, training to become a red teamer for my university
 - I grow cherry blossom bonsai in my dorm
 - Piracy is morally correct
-- My favorite clothing brand is [Machine56](https://www.machine56.com/)
+- My favorite clothing brand is [Superdry](https://www.superdry.com/)
 - My favorite youtube channels are [gigguk](https://www.youtube.com/@gigguk), [fireship](https://www.youtube.com/@Fireship), [suckerpinch (tom7)](https://www.youtube.com/@tom7), [brackeys](https://www.youtube.com/@Brackeys), [low level learning](https://www.youtube.com/@LowLevelLearning), [louis rossman](https://www.youtube.com/@rossmanngroup), [ryan trahan](https://www.youtube.com/@ryan), [sebastian lague](https://www.youtube.com/@SebastianLague), [citynerd](https://www.youtube.com/@CityNerd), [good work](https://www.youtube.com/@GoodWorkMB), [theanimeman](https://www.youtube.com/@TheAnimeMan), [kai lentit](https://www.youtube.com/@kailentit), [oxford mathematics](https://www.youtube.com/@OxfordMathematics), [pan piano](https://www.youtube.com/@panpianoatelier), [animenz](https://www.youtube.com/@Animenzzz), [rememberthebeat](https://www.youtube.com/@RememberTheBeat), [sphaerophoria](https://www.youtube.com/@sphaerophoria), [tim ferriss](https://www.youtube.com/@timferriss), [tom scott](https://www.youtube.com/@TomScottGo), [trevor wallace](https://www.youtube.com/@TrevorWallace), and [wesley wang](https://www.youtube.com/@wesleywangfilm)
 - I'm currently designing my own domain-specific programming language for linguistic analysis, which comes with integrated phonology tools, a morphological analysis engine, a syntax tree generator, semantic analysis features, corpus management, multiscript support, tts and automatic speech recognition, lexical database integration, statistical + ML tools, pragmatics and discourse modules, an extensible plugin architecure, and VS code extension support.
 
