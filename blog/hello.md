@@ -3,6 +3,7 @@
 This is my first blog post, and my about page.
 
 ## A few facts about me
+- Researching photonic processors and optical neural networks at [Northeastern's Experimental Quantum Photonics Lab](https://qplab.sites.northeastern.edu/)!
 - I recently started an applied math startup/lab called Sapientia Research with [Yoyo Yuan](https://twitter.com/indiraschka) and [Merrick Richers](https://www.linkedin.com/in/merrick-richers-57b05a227)! Our first project is a fully homomorphic encryption platform for neuroscience labs to securely share datasets.
 - I've traveled to over 30 countries (my favorites so far are Greece, Croatia, Vietnam, and Thailand)
 - I'm a fan of roguelike and roguelite videogames (my favorite games: Hades, Dead Cells, the Final Fantasy series, the Persona series, the Yakuza series, and Wildermyth)

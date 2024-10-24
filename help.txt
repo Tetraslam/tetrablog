@@ -1,5 +1,9 @@
 rsync blog/* prose.sh:/
 
+sftp prose.sh
+put blog/file.md
+rm file.md
+
 ---
 title: 40 Questions To Ask Yourself Every Year - 2024
 description: My take on Steph Ango's list.
